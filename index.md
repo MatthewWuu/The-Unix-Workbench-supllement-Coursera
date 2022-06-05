@@ -1,6 +1,6 @@
 ## Welcome!
 
-<u>$\underbrace{S_{o}W_{hat}I_{s}T_{his}A_{bout?}}$</u>
+<u>$$\underbrace{S_{o}W_{hat}I_{s}T_{his}A_{bout?}}$$</u>
 ------
 This file $\rightarrow$ ***"UNIX programming course on COURSERA"***  was designed for those who are taking the elementary GNU/linux_bash_programming course on Coursera, namely [The Unix Workbence](https://www.coursera.org/learn/unix/home/welcome). 
 
