@@ -1,4 +1,4 @@
-## **UNIX programming course on COURSERA**
+## UNIX programming course on COURSERA
 
 #### *Some configurations before we get into the main context*
 
