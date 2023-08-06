@@ -1,9 +1,9 @@
-###**UNIX programming course on COURSERA**
+## **UNIX programming course on COURSERA**
 
-#### *Some configurations before we get into main context*
+#### *Some configurations before we get into the main context*
 
 ----------
-
+#### Preface(good to know)
 -----
 
 - **Quick Q&A**
@@ -95,7 +95,7 @@ chsh -s /bin/zsh
 
 
 
-### **Fist Week Outline Notes**
+# **Fist Week Outline Notes**
 
 -----
 
