@@ -11,9 +11,9 @@ Let's construct a simple framework of RSA algorithm, this helps us have a **basi
 
 We have $p,q \in Prime$, a very large number $N$ which is the product of $p,q$. Then, we got an Euler's function $\phi(n)=(p-1)(q-1)$ which stands for the cardinality of the set of all integers not exceeding $n$ that are relatively prime to $n$, ( that is$N$).
 
-Next, we find a integer $e, 1 \leqslant e \leqslant n$ randomly, $s.t.  gcd(e,\phi(n))=1$.
+Next, we find a integer $e,1 \leqslant e \leqslant n$ randomly, $s.t.  gcd(e,\phi(n))=1$.
 
-By Bezout's theorem, $\exists $ integers x,y,  s.t. 
+By Bezout's theorem, $\exists$ integers x,y,  s.t. 
 $$
  xe-y\phi=1 \\
  ex=1+\phi y  \quad...*
