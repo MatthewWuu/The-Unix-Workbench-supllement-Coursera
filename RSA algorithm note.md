@@ -13,10 +13,11 @@ We have $p,q \in Prime$, a very large number $N$ which is the product of $p,q$. 
 
 Next, we find a integer $e,1 \leqslant e \leqslant n$ randomly, $s.t.  gcd(e,\phi(n))=1$.
 
-By Bezout's theorem, $\exists$ integers x,y,  s.t. 
+By Bezout's theorem, $\exists$ integers $x,y$,  s.t. 
+
 $$
- xe-y\phi=1 \\
- ex=1+\phi y  \quad...*
+xe-y\phi=1 \\
+ex=1+\phi y  \quad...*
 $$
 
 The equation above is the soul of the RSA algorithm. We take $x$ as the **private keys**, $N,e$as the **public keys**, which can be sent without being encrypted. Let's directly dive into a scenario through the given example below.
