@@ -13,7 +13,7 @@ We have $p,q \in Prime$, a very large number $N$ which is the product of $p,q$. 
 
 Next, we find a integer $e, 1 \leqslant e \leqslant n$ randomly, $s.t.  gcd(e,\phi(n))=1$.
 
-By Bezout's theorem, $ \exists $ integers$ x,y,  s.t. $
+By Bezout's theorem, $ \exists $ integers$ x,y,  s.t. 
 $$
  xe-y\phi=1 \\
  ex=1+\phi y  \quad...*
